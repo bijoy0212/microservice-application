@@ -3,7 +3,7 @@ const app = express();
 const port = 3001;  
 
 const videos = [
-  { id: 1, title: 'Introduction to Docker' },
+  { id: 1, title: 'Introduction to Docker Lab' },
   { id: 2, title: 'Microservices with Node.js' }
 ];  
  
